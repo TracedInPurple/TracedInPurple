@@ -1,5 +1,5 @@
 # 💫 About Me:
-⟐ Currently working on a large Project for Work/Apprenticeship. <br>🞠 Active Co-Owner and Developer of FNF: Mob Mod.<br>🞛 I’m I got no idea what I'm doing in Life.<br>🟂 Rebuilding my knowledge in HTML, CSS and JS again.<br>♦ Basic understanding of Haxe (including Flixel)<br>
+⟐ Currently working on a large Project for Work/Apprenticeship. <br>🞠 Active Co-Owner and Developer of FNF: Mob Mod.<br>🞛 I’m I got no idea what I'm doing in Life.<br>♦ Basic understanding of Haxe (including Flixel)<br>
 
 
 ## 🌐 Socials:
@@ -19,7 +19,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=TracedInPurple&icon=2&color=6)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Wanna get me a Coffee?
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/TracedInPurple) 
 
   
